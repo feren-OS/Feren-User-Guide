@@ -1,0 +1,15 @@
+site_name: Feren OS User Guide
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  language: 'en'
+  theme:
+  font:
+    text: 'Open Sans'
+    code: 'Dejavu Sans Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: true
