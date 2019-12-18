@@ -8,8 +8,8 @@ The docs are written in `reStructuredText <http://www.sphinx-doc.org/rest.html>`
 Build:
 ------
 
-.. image:: https://feren-os-user-guide.readthedocs.io/en/latest/?version=latest
-    :target: https://feren-os-user-guide.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/feren-os-user-guide/badge/?version=latest
+    :target: https://readthedocs.org/projects/feren-os-user-guide/badge/?version=latest
     :alt: Documentation Status
 
 License:
