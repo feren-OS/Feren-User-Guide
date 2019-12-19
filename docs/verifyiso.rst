@@ -17,8 +17,6 @@ Techniques used to verify a Feren OS ISO
 
 There are two checksums that are used to verify each Feren OS ISO: An MD5SUM and a SHA256SUM checksum. These checksums are unique for every ISO and every single version of the ISOs. Even small updates and snapshot updates to the ISOs result in a new MD5SUM and SHA256SUM.
 
-.. hint::
-    Checksums are identifiers that have unique values for every file. They are different for every file and therefore can be used to determine if a file has been downloaded correctly, was tampered with, or is otherwise changed.
 
 Where can I get the MD5SUM and SHA256SUM?
 ----------------
