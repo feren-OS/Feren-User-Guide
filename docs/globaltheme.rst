@@ -2,7 +2,7 @@ Global Theme
 ==================
 
 .. hint::
-    This guide doesn't work on Feren OS Classic. For Feren OS Classic you need to use System Settings --> Theme instead, and you can get new themes from Store --> Customisation --> Themes.
+    This guide doesn't work on Feren OS Classic. For Feren OS Classic you need to use :menuselection:`System Settings --> Theme` instead, and you can get new themes from :menuselection:`Store --> Customisation --> Themes`.
 
 
 What are Global Themes?
@@ -10,7 +10,7 @@ What are Global Themes?
 
 Global Themes are theme packs for Feren OS and other distributions with the Plasma desktop. They provide a layout for your desktop and set many parts of the way your Feren OS desktop looks all in one go.
 
-You can find Global Theme in System Settings --> Theme --> Global Theme.
+You can find Global Theme in :menuselection:`System Settings --> Theme --> Global Theme`.
 
 .. hint::
     You can apply just the theming and not also the desktop layout when applying Global Themes. To do so select the Global Theme you want to apply, untick the checkbox saying :guilabel:`Use desktop layout from theme` and then click :guilabel:`Apply`.

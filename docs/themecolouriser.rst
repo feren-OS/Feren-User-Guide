@@ -12,7 +12,7 @@ Using Theme Colouriser in Feren OS
 
 Using Theme Colouriser is very easy. To create a theme colourisation, do the following:
 
-1. Open up Theme Colouriser (Applications Menu --> Settings --> Theme Colouriser)
+1. Open up Theme Colouriser (:menuselection:`Applications Menu --> Settings --> Theme Colouriser`)
 
 2. Select :guilabel:`Create a new theme colourisation` and click :guilabel:`OK`
 
@@ -31,7 +31,7 @@ Using Theme Colouriser is very easy. To create a theme colourisation, do the fol
 
 To apply an existing theme colourisation later, all in one go, do the following:
 
-1. Open up Theme Colouriser (Applications Menu --> Settings --> Theme Colouriser)
+1. Open up Theme Colouriser (:menuselection:`Applications Menu --> Settings --> Theme Colouriser`)
 
 2. Select :guilabel:`Apply an existing theme colourisation` and click :guilabel:`OK`
 
@@ -43,7 +43,7 @@ To apply an existing theme colourisation later, all in one go, do the following:
 
 To delete an existing theme colourisation, do the following:
 
-1. Open up Theme Colouriser (Applications Menu --> Settings --> Theme Colouriser)
+1. Open up Theme Colouriser (:menuselection:`Applications Menu --> Settings --> Theme Colouriser`)
 
 2. Select :guilabel:`Remove an existing theme colourisation` and click :guilabel:`OK`
 
@@ -57,7 +57,7 @@ Using Theme Colouriser is very easy. Unlike the version Feren OS comes with howe
 
 To create a theme colourisation, do the following:
 
-1. Open up Theme Colouriser (Applications Menu --> Preferences --> Theme Colouriser)
+1. Open up Theme Colouriser (:menuselection:`Applications Menu --> Preferences --> Theme Colouriser`)
 
 2. Pick the theme you want to create an accent colourisation of (:guilabel:`feren` is the default theme)
 
@@ -69,4 +69,4 @@ To create a theme colourisation, do the following:
 
 6. Click :guilabel:`OK` on the theme creation confirmation dialog and then choose whether to apply the theme now or not
 
-Theme Colourisations can be applied later manually through System Settings --> Themes.
+Theme Colourisations can be applied later manually through :menuselection:`System Settings --> Themes`.

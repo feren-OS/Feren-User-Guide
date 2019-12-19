@@ -5,7 +5,7 @@ For packages that are now redundant on your system, there is an easy and quick w
 
 To remove redundant packages from your system, do the following:
 
-1. Open Terminal (Applications Menu --> System / Administration --> Konsole / Terminal
+1. Open Terminal (:menuselection:`Applications Menu --> System / Administration --> Konsole / Terminal`)
 
 2. Type ``pkexec apt autoremove`` and press :kbd:`Enter`
 

@@ -7,7 +7,7 @@ Where can you send feedback about Feren OS?
 The best way to send feedback about Feren OS is through the "Send Feedback or Report an Issue" application, which can be found in the following places:
 
 * The Desktop (until you delete it from the desktop)
-* Applications Menu --> System / Administration --> Send Feedback or Report an Issue
+* :menuselection:`Applications Menu --> System / Administration --> Send Feedback or Report an Issue`
 
 .. hint::
     For those curious, these shortcuts are provided by a package called 'feren-feedback'.

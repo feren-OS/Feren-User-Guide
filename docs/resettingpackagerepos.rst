@@ -3,7 +3,7 @@ Resetting the package repositories
 
 If you ever make a mistake with the repositories on your system for obtaining packages for Feren OS from, there is a very easy way to reset your repositories.
 
-First you will want to open up Software Sources. Software Sources can be opened via Applications Menu --> System / Administration --> Software Sources.
+First you will want to open up Software Sources. Software Sources can be opened via :menuselection:`Applications Menu --> System / Administration --> Software Sources`.
 
 .. warning::
     Only those with administrative privileges or those who can obtain these privileges can open Software Sources.

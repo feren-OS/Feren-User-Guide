@@ -6,9 +6,9 @@ General Lock Screen settings
 
 The main thing to customise, for the lock screen, is the general lock screen settings.
 
-In Feren OS you can go into System Settings --> Screen Locking to do so.
+In Feren OS you can go into :menuselection:`System Settings --> Screen Locking` to do so.
 
-In Feren OS Classic you can go into System Settings --> Screensaver to do so.
+In Feren OS Classic you can go into :menuselection:`System Settings --> Screensaver` to do so.
 
 .. hint::
     The rest of this guide does not support Feren OS Classic.
@@ -17,7 +17,7 @@ In Feren OS Classic you can go into System Settings --> Screensaver to do so.
 Changing the lock screen background
 ----------------
 
-Changing the Lock Screen background is pretty easy to do. From System Settings --> Screen Locking you'll find a :guilabel:`Appearance` tab. Click on that tab and you'll be given a wallpaper selector for the lock screen. Simply select the background you want, click :guilabel:`Apply` and then Lock to see your new background in action.
+Changing the Lock Screen background is pretty easy to do. From :menuselection:`System Settings --> Screen Locking` you'll find a :guilabel:`Appearance` tab. Click on that tab and you'll be given a wallpaper selector for the lock screen. Simply select the background you want, click :guilabel:`Apply` and then Lock to see your new background in action.
 
 The background picker works just like it does for setting desktop backgrounds so if you are familiar with the desktop background settings you'll be right at home with the Lock Screen settings.
 

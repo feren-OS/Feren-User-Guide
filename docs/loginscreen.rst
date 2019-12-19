@@ -9,7 +9,7 @@ To change login screen related settings, you will want to open up Login Window.
 .. warning::
     Only those with administrative privileges or those who can obtain these privileges can open Login Window.
 
-Login Window can be opened via Applications Menu --> Settings / Preferences --> Login Window.
+Login Window can be opened via :menuselection:`Applications Menu --> Settings / Preferences --> Login Window`.
 
 .. figure:: images/loginwindow.png
     :width: 724px
