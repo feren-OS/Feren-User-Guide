@@ -7,7 +7,7 @@ What is the Store?
 The Store is the go-to place for getting most if not all the applications you'd ever need in Feren OS.
 
 .. figure:: images/feren-store.png
-    :width: 500px
+    :width: 884px
     :align: center
 
     Feren OS's Store
@@ -50,7 +50,7 @@ Whenever you want to view an application in Store, you can simply click on the a
 When you are viewing the application, a screen similar to this one will appear:
 
 .. figure:: images/feren-store-page.png
-    :width: 500px
+    :width: 884px
     :align: center
 
 * :guilabel:`Install` lets you install the application. This button will change into :guilabel:`Launch` and :guilabel:`Remove` if the application is installed.
