@@ -14,7 +14,7 @@ To remove redundant packages from your system, do the following:
 4. Check the output specifying what packages will be removed from your system in case there are any packages you would like to keep installed
 
 .. hint::
-    If any packages you want to keep installed are listed there, type 'n' on the question, press :kbd:`Enter`, type ``pkexec apt install (the package's name here without brackets)`` and press :kbd:`Enter` again to mark that package as manually installed (makes the package immune to autoremove)
+    If any packages you want to keep installed are listed there, type 'n' on the question, press :kbd:`Enter`, type ``pkexec apt install (the package's name goes here without brackets)`` and press :kbd:`Enter` again to mark that package as manually installed (makes the package immune to autoremove)
 
 5. Once you're sure that everything the command wants to remove is fine on your terms to be removed, type 'y' on the question and press :kbd:`Enter` to confirm the package operations.
 
