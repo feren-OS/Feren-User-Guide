@@ -11,12 +11,24 @@ To restore your data using Transfer Tool, you will need the following available:
 - Access to your new Feren OS installation
 
 
+Video Guide
+----------------
+
+If you want a visual guide for all of these steps, there is a YouTube video that will guide you through all the necessary steps required to transfer backed up data to Feren OS with Transfer Tool.
+
+Note that this guide covers both backing up the data (from Windows), and restoring it after installing Feren OS over Windows. Therefore for the purpose of this part of the User Guide you should only follow the second half of the video guide.
+
+The video can be found here: https://www.youtube.com/watch?v=MVN2NVvGCVI
+
+If you want a text guide instead, continue reading below.
+
+
 Launching Transfer Tool
 ----------------
 
 To start things off, you will want to be logged in to the user account you want to restore data to in Feren OS.
 
-From there, go into the Applications Menu (the bottom-left bird icon) --> System --> Transfer Tool to launch Transfer Tool.
+From there, go into the :menuselection:`Applications Menu (the bottom-left bird icon) --> System --> Transfer Tool` to launch Transfer Tool.
 
 Once you've got Transfer Tool running, you'll be presented by this window:
 
@@ -64,6 +76,5 @@ After doing that you can proceed to start properly setting up Feren OS. Have fun
 Next Steps
 ----------------
 
-- `First Steps <https://feren-os-user-guide.readthedocs.io/en/latest/firststeps.html>`_
-
-- `Welcome Screen <https://feren-os-user-guide.readthedocs.io/en/latest/welcomescreen.html>`_
+* `First Steps <https://feren-os-user-guide.readthedocs.io/en/latest/firststeps.html>`_
+* `Welcome Screen <https://feren-os-user-guide.readthedocs.io/en/latest/welcomescreen.html>`_

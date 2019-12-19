@@ -18,7 +18,7 @@ Launching Transfer Tool
 
 To start things off, you will want to be logged in to the user account you want to back up data from in Feren OS.
 
-From there, go into the Applications Menu (the bottom-left bird icon) --> System --> Transfer Tool to launch Transfer Tool.
+From there, go into the :menuselection:`Applications Menu (the bottom-left bird icon) --> System --> Transfer Tool` to launch Transfer Tool.
 
 Once you've got Transfer Tool running, you'll be presented by this window:
 
@@ -68,8 +68,6 @@ After doing that you can proceed to reboot your existing Feren OS and boot into 
 Next Steps
 ----------------
 
-- `Boot Feren OS from USB or DVD <https://feren-os-user-guide.readthedocs.io/en/latest/livecdboot.html>`_
-
-- `Installing Feren OS over Linux <https://feren-os-user-guide.readthedocs.io/en/latest/installoverlinux.html>`_
-
-- `Installing Feren OS alongside Linux <https://feren-os-user-guide.readthedocs.io/en/latest/installwithlinux.html>`_
+* `Boot Feren OS from USB or DVD <https://feren-os-user-guide.readthedocs.io/en/latest/livecdboot.html>`_
+* `Installing Feren OS over Linux <https://feren-os-user-guide.readthedocs.io/en/latest/installoverlinux.html>`_
+* `Installing Feren OS alongside Linux <https://feren-os-user-guide.readthedocs.io/en/latest/installwithlinux.html>`_
