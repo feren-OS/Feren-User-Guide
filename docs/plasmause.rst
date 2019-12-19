@@ -45,7 +45,7 @@ Applications Menu - Simple Menu (Default and Tablet Mode)
 The applications menu is the place to go to whenever you want to launch an application. It's quite simple to use when you get the hang of the menu, however I might as well explain what each part of the menu is and does.
 
 .. figure:: images/simplemenu.png
-    :width: 500px
+    :width: 786px
     :align: center
 
 * The list on your left is your categories - hover over each category to list applications in that category
@@ -101,7 +101,7 @@ Applications Menu - Tiled Menu (Familiar Layout)
 The applications menu is the place to go to whenever you want to launch an application. Familiar Layout's application menu is completely different to the default one, and it might even remind you of a certain other menu from somewhere else. Here's how it works:
 
 .. figure:: images/tiledmenu.png
-    :width: 500px
+    :width: 816px
     :align: center
 
 * On the direct left of the menu is a row of buttons: Only Show Tiles, List Applications Alphabetically, List Applications By Categories, User Options, Documents Folder, Pictures Folder, Open Files, Open Settings and Power.
@@ -133,7 +133,7 @@ Applications Menu - Application Menu (Redmond Layout)
 The applications menu is the place to go to whenever you want to launch an application. Redmond Layout's application menu is completely different to the default one. Here's how it works:
 
 .. figure:: images/applicationmenuplasma.png
-    :width: 500px
+    :width: 330px
     :align: center
 
 * On the direct left of the menu is a row of buttons consisting of your favourite applications, Switch User, Log Out and Shut Down
