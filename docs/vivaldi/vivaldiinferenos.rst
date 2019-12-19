@@ -6,7 +6,7 @@ Using Vivaldi
 
 Using Vivaldi in Feren OS is quite simple. If you have used Vivaldi before, you'll already know where everything is, however if you do not then here is a brief tour of Vivaldi:
 
-.. figure:: images/vivaldidiagramen.png
+.. figure:: ../images/vivaldidiagramen.png
     :width: 2012px
     :align: center
 
