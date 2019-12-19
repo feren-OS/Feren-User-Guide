@@ -17,7 +17,7 @@ This desktop can be either left alone to be your default desktop or can be the b
 The desktop, by default, is laid out into these core fundamentals:
 
 * Icons are on the desktop for whatever you place in your Desktop folder
-* At the top-center of the screen there is a small... notch, maybe (I really need to come up with a name for this thing some time - The Feren OS Dev)... housing both your time, calendar and notifications. If you open a window under this it'll hide itself, until you hit your mouse against the top-center part of your screen hard enough, to stay out of your way.
+* At the top-center of the screen there is the (appropriately dubbed) Cappuccino Notch housing both your time, calendar and notifications. If you open a window under the Cappuccino Notch it'll hide itself, until you hit your mouse against the top-center part of your screen hard enough, to stay out of your way.
 * At the bottom-left you will find your Applications Menu (the Feren OS logo), and next to that your pinned and open applications
 * Finally, at the bottom-right you will find your System Tray (click the up arrow to reveal hidden tray indicators and click each icon for their respective statuses)
 
