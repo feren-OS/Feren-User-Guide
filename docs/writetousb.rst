@@ -41,6 +41,6 @@ Now for the part where you get Feren OS flashed. To flash Feren OS to a USB:
 
 This process may take a while, but once you are done you can move on to the next step:
 
-* `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/prepwindows.html>`_
-* `Making preparations in macOS <https://feren-os-user-guide.readthedocs.io/en/latest/prepmacos.html>`_
-* `Making preparations in Linux <https://feren-os-user-guide.readthedocs.io/en/latest/preplinux.html>`_
+* `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/preparations/prepwindows.html>`_
+* `Making preparations in macOS <https://feren-os-user-guide.readthedocs.io/en/latest/preparations/prepmacos.html>`_
+* `Making preparations in Linux <https://feren-os-user-guide.readthedocs.io/en/latest/preparations/preplinux.html>`_
