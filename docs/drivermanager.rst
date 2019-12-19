@@ -12,14 +12,14 @@ You will need to use Driver Manager if:
 1. Open Driver Manager (:menuselection:`Applications Menu --> System / Administration --> Driver Manager`).
 
 .. figure:: images/mintdrivers.png
-    :width: 500px
+    :width: 724px
     :align: center
 
 .. hint::
     If you are offline, the Driver Manager will complain that it cannot connect to the Internet.
 
     .. figure:: images/mintdrivers-2.png
-        :width: 500px
+        :width: 724px
         :align: center
 
     Insert the USB stick or DVD you flashed/burned your Feren OS ISO to earlier, wait for it to be mounted, and click :guilabel:`OK`.
