@@ -46,7 +46,7 @@ Applications Menu - CinnVIIStarkMenu
 The applications menu is the place to go to whenever you want to launch an application. It's quite simple to use when you get the hang of the menu, however I might as well explain what each part of the menu is and does.
 
 .. figure:: images/cinnviistarkmenu.png
-    :width: 500px
+    :width: 457px
     :align: center
 
 * On the initial menu page, the list on the left is your Favourite Applications
@@ -62,7 +62,7 @@ Applications Menu - Menu (Linux Mint Layout)
 The applications menu is the place to go to whenever you want to launch an application. The application menu works differently if you choose the :guilabel:`Linux Mint Layout`. Here's how it works:
 
 .. figure:: images/menucinn.png
-    :width: 500px
+    :width: 545px
     :align: center
 
 * On the direct left of the menu is a row of buttons consisting of your favourite applications, Switch User, Log Out and Shut Down

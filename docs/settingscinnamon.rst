@@ -7,7 +7,7 @@ The System Settings Application
 Feren OS Classic's System Settings application allows you to change most settings in your system.
 
 .. figure:: images/settingscinnamon.png
-    :width: 500px
+    :width: 800px
     :align: center
 
     System Settings
