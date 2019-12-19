@@ -37,7 +37,7 @@ Alternatively, you can also change the Start Page back to Vivaldi's own one, if 
 
 4. Under :guilabel:`New Tab Page` select "Start Page"
 
-If you want to go back to the Feren OS Start Page at any time just undo the changes you made here. In case you lose the address it is at https://feren-os.github.io/start-page.
+If you want to go back to the Feren OS Start Page at any time just undo the changes you made there. In case you lose the address it is at https://feren-os.github.io/start-page.
 
 
 Using the unmodified Vivaldi experience
