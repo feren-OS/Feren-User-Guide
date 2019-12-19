@@ -9,7 +9,7 @@ Web Browser Manager is an application made for Feren OS that lets you easily ins
 You can find it in the :guilabel:`Internet` category in the Applications Menu.
 
 .. figure:: images/browsermanager.png
-    :width: 500px
+    :width: 899px
     :align: center
 
     Web Browser Manager
