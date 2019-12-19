@@ -9,7 +9,7 @@ You will need to use Driver Manager if:
 
 - Your machine uses Broadcom Wireless Drivers
 
-1. Launch :menuselection:`Applications Menu --> System --> Driver Manager`. (It is called :guilabel:`Administration` rather than :guilabel:`System` in Feren OS Classic)
+1. Open Driver Manager (:menuselection:`Applications Menu --> System / Administration --> Driver Manager`).
 
 .. figure:: images/mintdrivers.png
     :width: 500px
