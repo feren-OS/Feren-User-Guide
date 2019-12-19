@@ -16,7 +16,7 @@ To start installing Feren OS you will want to run the installer. The installer i
 
 - The :guilabel:`Install Now` button in Welcome Screen
 
-- Applications Menu (bottom-left bird icon) -> :guilabel:`System` -> :guilabel:`Install Feren OS`
+- Applications Menu (bottom-left bird icon) --> :guilabel:`System` --> :guilabel:`Install Feren OS`
 
 
 Installing Feren OS (Feren OS and Feren OS Classic 64-Bit)

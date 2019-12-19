@@ -45,7 +45,7 @@ Disabling Automatic Updates
 
 If you don't want automatic updates to occur on a daily basis, you can easily disable it through a user with administrator privilleges.
 
-To start off, you will want to edit ``/etc/apt/apt.conf.d/10periodic``. In Feren OS you just need to open this file in Kate, and you will find it through Files at File System -> etc -> apt -> apt.conf.d -> 10periodic.
+To start off, you will want to edit ``/etc/apt/apt.conf.d/10periodic``. In Feren OS you just need to open this file in Kate, and you will find it through Files at File System --> etc --> apt --> apt.conf.d --> 10periodic.
 
 In Feren OS Classic, however, you will need to open a text editor as Superuser. An easy way to do this is to go into the Terminal and run this command: ``sudo xed /etc/apt/apt.conf.d/10periodic``
 

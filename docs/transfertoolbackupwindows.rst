@@ -34,7 +34,7 @@ To start things off, you will want to restart Windows normally and boot into the
 .. hint::
     Refer to `Boot Feren OS from USB or DVD <https://feren-os-user-guide.readthedocs.io/en/latest/livecdboot.html>`_ for guidance on booting into the USB or DVD that you flashed/burned earlier
 
-From there, go into the Applications Menu (the bottom-left bird icon) -> System -> Transfer Tool to launch Transfer Tool.
+From there, go into the Applications Menu (the bottom-left bird icon) --> System --> Transfer Tool to launch Transfer Tool.
 
 Once you've got Transfer Tool running, you'll be presented by this window:
 

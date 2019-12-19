@@ -4,7 +4,7 @@ Welcome Screen
 What is the Welcome Screen?
 ----------------
 
-The Welcome Screen is a utility built in to Feren OS that guides you through a few handy tips, things to do and more to introduce and help get you familiar with Feren OS. You can use it to get an introduction to what Feren OS is, some extra tips on Getting Started, and more. You can access it via Applications Menu -> :guilabel:`System` -> :guilabel:`Welcome Screen` or via the shortcut on your Desktop.
+The Welcome Screen is a utility built in to Feren OS that guides you through a few handy tips, things to do and more to introduce and help get you familiar with Feren OS. You can use it to get an introduction to what Feren OS is, some extra tips on Getting Started, and more. You can access it via Applications Menu --> :guilabel:`System` --> :guilabel:`Welcome Screen` or via the shortcut on your Desktop.
 
 .. figure:: images/feren-welcome-home.png
     :width: 1126px

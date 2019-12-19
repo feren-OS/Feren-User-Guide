@@ -18,7 +18,7 @@ Therefore, you should download ``Feren OS Classic 32-Bit`` for your machine.
 Finding out the architecture in Microsoft Windows Vista - 8.1
 ----------------
 
-To find out the architecture of your system, go into :menuselection:`Control Panel -> System & Security --> System`. From there look for a label saying "System type".
+To find out the architecture of your system, go into :menuselection:`Control Panel --> System & Security --> System`. From there look for a label saying "System type".
 
 If the label says "64-bit Operating System", you should download either ``Feren OS`` or ``Feren OS Classic 64-Bit`` for your machine.
 
