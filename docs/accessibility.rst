@@ -6,9 +6,9 @@ Finding the accessibility options
 
 Accessibility options are an important feature for certain users with disabilities who need special tweaks to be able to better make use of their Operating System. Feren OS has accessibility options available right out of the box in System Settings.
 
-To find them, you will first need to open System Settings. You can do this by going into Applications Menu (the bird icon on the bottom-left) --> :guilabel:`Settings` --> :guilabel:`System Settings`.
+To find them, you will first need to open System Settings. You can do this by going into :menuselection:`Applications Menu (the bird icon on the bottom-left) --> Settings --> System Settings`.
 
-In Feren OS Classic you'll find System Settings on the right-side of the applications menu immediately as you open it, unless you have chosen the "Linux Mint Layout" in which case it will be in :guilabel:`Preferences` --> :guilabel:`System Settings`.
+In Feren OS Classic you'll find System Settings on the right-side of the applications menu immediately as you open it, unless you have chosen the "Linux Mint Layout" in which case it will be in :menuselection:`Preferences --> System Settings`.
 
 Once you've opened up System Settings, go to the item called "Accessibility". It will be there with an icon that has a person with their arms held up slightly in a blue circle.
 
