@@ -9,11 +9,9 @@ Opening the installer
 
 To start installing Feren OS you will want to run the installer. The installer is placed in the following locations:
 
-- The :guilabel:`Install Feren OS` shortcut placed on the desktop
-
-- The :guilabel:`Install Now` button in Welcome Screen
-
-- Applications Menu (bottom-left bird icon) --> :guilabel:`System` --> :guilabel:`Install Feren OS`
+* The :guilabel:`Install Feren OS` shortcut placed on the desktop
+* The :guilabel:`Install Now` button in Welcome Screen
+* :menuselection:`Applications Menu (bottom-left bird icon) --> System --> Install Feren OS`
 
 
 Installing Feren OS (Feren OS and Feren OS Classic 64-Bit)
