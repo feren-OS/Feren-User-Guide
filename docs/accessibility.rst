@@ -22,11 +22,9 @@ Activating "Keys" Accessibility Features using the keyboard
 
 It is also possible to activate Sticky Keys and Slow Keys at any time using the keyboard.
 
-- To activate Sticky Keys press :kbd:`Shift` 5 times in fast succession
-
-- To activate Slow Keys hold :kbd:`Shift` for 8 seconds
-
-- To activate Mouse Keys hold :kbd:`Shift` and press :kbd:`NumLock`
+* To activate Sticky Keys press :kbd:`Shift` 5 times in fast succession
+* To activate Slow Keys hold :kbd:`Shift` for 8 seconds
+* To activate Mouse Keys hold :kbd:`Shift` and press :kbd:`NumLock`
 
 .. warning::
     These keyboard triggers for the aforementioned keys features may not work on Feren OS Classic.

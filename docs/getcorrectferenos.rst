@@ -67,8 +67,7 @@ The correct version of Feren OS for you depends on your system and your preferen
 
 If you have a 32-Bit system, then ``Feren OS Classic`` is the best option for you. However, if you have a 64-Bit system, it all depends on preference between the following:
 
-- ``Feren OS`` is the leaner, more polished version of Feren OS. It's the defacto Feren OS meaning that it is guaranteed to get the most maintenance done to it and that it is guaranteed to be maintained longer than Classic will, with an indefinite maintenance time until a possible desktop environment switch some time in the future.
-
-- ``Feren OS Classic`` is the original Feren OS experience with the Cinnamon Desktop. It is heavier than Feren OS on resources by default however it has seen more development time overall and is more stagnant with updates than Feren OS due to its maturity.
+* ``Feren OS`` is the leaner, more polished version of Feren OS. It's the defacto Feren OS meaning that it is guaranteed to get the most maintenance done to it and that it is guaranteed to be maintained longer than Classic will, with an indefinite maintenance time until a possible desktop environment switch some time in the future.
+* ``Feren OS Classic`` is the original Feren OS experience with the Cinnamon Desktop. It is heavier than Feren OS on resources by default however it has seen more development time overall and is more stagnant with updates than Feren OS due to its maturity.
 
 I'd recommend ``Feren OS`` for newcomers to Feren OS because of its defacto status and its overall higher levels of polish, however the choice is always yours in the end.

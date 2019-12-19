@@ -6,11 +6,9 @@ Requirements
 
 To backup your data using Transfer Tool, you will need the following available:
 
-- An external data storage device to temporarily hold the backed up data on
-
-- Access to your existing Feren OS installation that you want to back up data from
-
-- A working Feren OS Live Session (accessed by booting into the USB or DVD that you flashed/burned your Feren OS ISO file onto)
+* An external data storage device to temporarily hold the backed up data on
+* Access to your existing Feren OS installation that you want to back up data from
+* A working Feren OS Live Session (accessed by booting into the USB or DVD that you flashed/burned your Feren OS ISO file onto)
 
 
 Launching Transfer Tool

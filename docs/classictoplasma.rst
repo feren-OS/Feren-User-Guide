@@ -6,11 +6,9 @@ What you need
 
 Before you can start this guide, you will need the following prepared and ready:
 
-- An existing Feren OS Classic installation
-
-- feren-cinn2plas ("Transition to the new Feren OS") being installed on your system
-
-- An internet connection
+* An existing Feren OS Classic installation
+* feren-cinn2plas ("Transition to the new Feren OS") being installed on your system
+* An internet connection
 
 .. hint::
     "feren-cinn2plas" should be automatically installed by an update to "feren-app-packages-cinnamon" that you can obtain in Update Manager. If you still do not have it then go into the Store, search for and manually install "Feren-cinn2plas".

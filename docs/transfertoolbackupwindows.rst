@@ -6,13 +6,10 @@ Requirements
 
 To backup your data using Transfer Tool, you will need the following available:
 
-- An external data storage device to temporarily hold the backed up data on
-
-- Access to the existing installation of Windows you want to back up data from
-
-- A working Feren OS Live Session (accessed by booting into the USB or DVD that you flashed/burned your Feren OS ISO file onto)
-
-- If the Windows version you want to back up data from is Windows 8, 8.1 or 10, then you'll want Fast Startup turned off in Windows. You can refer to `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/preparations/prepwindows.html#turn-off-fast-startup-windows-8-8-1-and-10>`_ to find out how to turn off Fast Startup
+* An external data storage device to temporarily hold the backed up data on
+* Access to the existing installation of Windows you want to back up data from
+* A working Feren OS Live Session (accessed by booting into the USB or DVD that you flashed/burned your Feren OS ISO file onto)
+* If the Windows version you want to back up data from is Windows 8, 8.1 or 10, then you'll want Fast Startup turned off in Windows. You can refer to `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/preparations/prepwindows.html#turn-off-fast-startup-windows-8-8-1-and-10>`_ to find out how to turn off Fast Startup
 
 Video Guide
 ----------------

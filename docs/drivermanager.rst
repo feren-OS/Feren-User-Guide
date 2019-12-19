@@ -5,9 +5,8 @@ The Driver Manager is a tool that lets you manage certain drivers on Feren OS th
 
 You will need to use Driver Manager if:
 
-- Your machine uses NVIDIA Graphics Drivers
-
-- Your machine uses Broadcom Wireless Drivers
+* Your machine uses NVIDIA Graphics Drivers
+* Your machine uses Broadcom Wireless Network Drivers
 
 1. Open Driver Manager (:menuselection:`Applications Menu --> System / Administration --> Driver Manager`).
 

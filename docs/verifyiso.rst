@@ -6,9 +6,9 @@ Why would you verify a Feren OS ISO?
 
 There are multiple reasons for wanting to verify your ISO. These reasons include:
 
-- Making sure that the ISO you've downloaded is legitimate
-- Making sure that the ISO has not been compromised in any sort of way
-- Making sure that the ISO has not been corrupted in any way
+* Making sure that the ISO you've downloaded is legitimate
+* Making sure that the ISO has not been compromised in any sort of way
+* Making sure that the ISO has not been corrupted in any way
 
 If the ISO verification methods below reproduce different values to the ones on the website for these ISOs, please scrap that current ISO and redownload it to save yourself potential hassle in the future.
 

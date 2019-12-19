@@ -174,4 +174,4 @@ Congrats, you have installed Feren OS! When rebooting eject your USB or DVD and 
 Next Steps
 -------------------------------------
 
-- `First Steps <https://feren-os-user-guide.readthedocs.io/en/latest/firststeps.html>`_
+* `First Steps <https://feren-os-user-guide.readthedocs.io/en/latest/firststeps.html>`_

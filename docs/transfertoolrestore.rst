@@ -6,9 +6,8 @@ Requirements
 
 To restore your data using Transfer Tool, you will need the following available:
 
-- The external data storage device that you backed up your data to earlier with Transfer Tool
-
-- Access to your new Feren OS installation
+* The external data storage device that you backed up your data to earlier with Transfer Tool
+* Access to your new Feren OS installation
 
 
 Video Guide
