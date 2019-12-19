@@ -41,8 +41,8 @@ Where is Snap Store after installation?
 
 After Snap Store is installed, you can quickly access it from the following places in the future:
 
-* Applications Menu --> System --> Snap Store
-* Welcome Screen --> Install Software --> Snap Apps
+* :menuselection:`Applications Menu --> System --> Snap Store`
+* :menuselection:`Welcome Screen --> Install Software --> Snap Apps`
 
 .. hint::
     The system may need to be restarted after installing Snap Store for it to appear in the applications menu.

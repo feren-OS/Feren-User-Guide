@@ -18,7 +18,7 @@ You can get balenaEtcher for your machine at https://www.balena.io/etcher/
 Once you have downloaded balenaEtcher for your platform, set it up so that you see a window similar to the one shown in the image above.
 
 .. hint::
-    For Linux (and Feren OS) you will want to make the .AppImage file that you downloaded executable in its properties (right-click the balenaEtcher .AppImage file --> Properties --> Permissions) so that you can open the file normally.
+    For Linux (and Feren OS) you will want to make the .AppImage file that you downloaded executable in its properties (:menuselection:`right-click the balenaEtcher .AppImage file --> Properties --> Permissions`) so that you can open the file normally.
     For Windows you will need to install balenaEtcher first unless you have downloaded the portable version instead.
 
 Flashing your Feren OS ISO file to your USB
