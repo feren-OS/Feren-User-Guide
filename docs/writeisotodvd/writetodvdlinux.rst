@@ -28,4 +28,4 @@ Next Steps
 
 This process may take a while, but once you are done you can move on to the next step:
 
-`Making preparations in Linux <https://feren-os-user-guide.readthedocs.io/en/latest/preplinux.html>`_
+* `Making preparations in Linux <https://feren-os-user-guide.readthedocs.io/en/latest/preplinux.html>`_

@@ -44,4 +44,4 @@ Next Steps
 
 This process may take a while, but once you are done you can move on to the next step:
 
-`Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/prepwindows.html>`_
+* `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/prepwindows.html>`_

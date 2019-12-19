@@ -25,4 +25,4 @@ Next Steps
 
 This process may take a while, but once you are done you can move on to the next step:
 
-`Making preparations in macOS <https://feren-os-user-guide.readthedocs.io/en/latest/prepmacos.html>`_
+* `Making preparations in macOS <https://feren-os-user-guide.readthedocs.io/en/latest/prepmacos.html>`_
