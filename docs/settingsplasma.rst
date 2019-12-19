@@ -7,7 +7,7 @@ The System Settings Application
 Feren OS's System Settings application allows you to change most settings in your system.
 
 .. figure:: images/settingsplasma.png
-    :width: 500px
+    :width: 1108px
     :align: center
 
     System Settings
