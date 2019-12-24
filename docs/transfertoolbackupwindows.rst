@@ -1,6 +1,11 @@
 Using Transfer Tool to backup your data from Windows
 ==================
 
+.. warning::
+    If you're backing up data from a Feren OS installation, use the following guide instead:
+    
+    * `Using Transfer Tool to backup your data from Feren OS <https://feren-os-user-guide.readthedocs.io/en/latest/transfertoolbackupferenos.html>`_
+
 Requirements
 ----------------
 
