@@ -29,7 +29,7 @@ Now that you have Feren OS on a USB stick (or DVD) boot the computer from it.
 
     The grub menu in EFI mode
 
-5. From one of these menus press :kbd:`Enter` to start Feren OS from your USB stick (or DVD).
+5. From one of these menus scroll down with the arrow keys to the appropriate boot option and press :kbd:`Enter` to start Feren OS from your USB stick (or DVD).
 
 .. hint::
     The arrow keys (four pointing arrow keys) on your keyboard let you change what option you are currently selecting in both menus. Pressing the :kbd:`Enter` key will start the option you selected.
