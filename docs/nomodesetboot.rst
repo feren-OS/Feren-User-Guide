@@ -24,7 +24,7 @@ To force GRUB to show the boot menu press :kbd:`ESC` once after the screen goes 
 
     Feren OS GRUB Boot Menu
 
-Now you are at the GRUB screen, scroll down to "Advanced options for Feren OS" and press the ENTER key. A new list of options will appear on-screen. Of these options, scroll down to "Feren OS, with Linux ... (nomodeset)" and press the ENTER key again. Feren OS should now start booting with nomodeset on.
+Now you are at the GRUB screen, scroll down to :guilabel:`Advanced options for Feren OS` and press the ENTER key. A new list of options will appear on-screen. Of these options, scroll down to :guilabel:`Feren OS, with Linux ... (nomodeset)` and press the ENTER key again. Feren OS should now start booting with nomodeset on.
 
 
 Installing Drivers
