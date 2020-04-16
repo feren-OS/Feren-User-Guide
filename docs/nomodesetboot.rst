@@ -4,7 +4,7 @@ Booting with nomodeset for NVIDIA Hardware
 Booting with nomodeset on an installed system
 ----------------
 
-If you had to use the "nomodeset" option to boot into the Feren OS Live Session earlier to install Feren OS, you may find that you will need to also boot into your newly installed Feren OS via "nomodeset" too. However, doing it once Feren OS is installed requires more user intervention at first.
+If you had to use the "nomodeset" option to boot into the Feren OS Live Session earlier to install Feren OS, you may find that you will need to also boot into your newly installed Feren OS via "nomodeset" too. Thankfully this is very easy to do in Feren OS.
 
 .. hint::
     You will only need to follow this guide if you had to use the "nomodeset" option to boot into Feren OS from your USB or DVD drive successfully. If you could boot using the normal boot option you can skip over this page and move on to `First Steps <https://feren-os-user-guide.readthedocs.io/en/latest/firststeps.html>`_.
@@ -24,19 +24,7 @@ To force GRUB to show the boot menu press :kbd:`ESC` once after the screen goes 
 
     Feren OS GRUB Boot Menu
 
-Now you are at the GRUB screen, press :kbd:`e` while the top entry is highlighted in light grey and you should now see this screen:
-
-.. figure:: images/grubnomodeset1.png
-    :width: 1024px
-    :align: center
-
-From here, use the Arrow Keys on your keyboard to scroll to a line near the bottom saying "quiet splash". Once you're at the "quiet splash" text remove "quiet splash" altogether and type in its place "nomodeset".
-
-.. figure:: images/grubnomodeset2.png
-    :width: 1024px
-    :align: center
-
-Now press :kbd:`Ctrl` + :kbd:`X` to boot with the edited boot command. Feren OS should now start booting with nomodeset on.
+Now you are at the GRUB screen, scroll down to "Advanced options for Feren OS" and press the ENTER key. A new list of options will appear on-screen. Of these options, scroll down to "Feren OS, with Linux ... (nomodeset)" and press the ENTER key again. Feren OS should now start booting with nomodeset on.
 
 
 Installing Drivers
