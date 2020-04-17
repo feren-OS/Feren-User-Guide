@@ -25,9 +25,9 @@ Once you have the installer opened up you should see a screen similar to the one
 
     Feren OS's installer
 
-Now you are in the installer, select your language using the dropdown menu at the bottom of the window and then press :guilabel:`Next`.
+Now that you are in the installer, select your language using the dropdown menu at the bottom of the window and then press :guilabel:`Next`.
 
-You should now see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone. This will be used to set the timezone, currency, and so on on the installed Feren OS machine.
+You should now see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone.
 
 .. figure:: images/calamares2.png
     :width: 1024px
@@ -71,7 +71,7 @@ On the first boot into Feren OS, you will be greeted with just a "Set up Feren O
     :width: 1024px
     :align: center
 
-You should now see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone. This will be used to set the timezone, currency, and so on on the installed Feren OS machine.
+You should now see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone. This will be used to set the timezone, currency, and so on on your Feren OS installation.
 
 .. figure:: images/oemconfig2.png
     :width: 1024px
@@ -104,9 +104,9 @@ There will also be an optional checkbox below the password textboxes saying :gui
     
 Once you've done this, press :guilabel:`Set Up`.
 
-Feren OS will now do some final preparations for first boot.
+Feren OS will now do some final preparations before you can use it.
 
-Once Feren OS has done setting itself up, it'll take you to a screen saying "All Done". From here you can click :guilabel:`Done` to continue to your all-new Feren OS installation.
+Once Feren OS has done setting itself up, it'll take you to a screen saying "All Done". From here click :guilabel:`Done` to continue to your all-new Feren OS installation.
 
 .. figure:: images/oemconfig5.png
     :width: 1024px
@@ -125,7 +125,7 @@ Once you have the installer opened up you should see a screen similar to the one
 
     Feren OS Classic 32-Bit's installer
 
-Now you are in the installer, select your language using the list of languages at the left of the window and then press :guilabel:`Continue`.
+Now that you are in the installer, select your language using the list of languages at the left of the window and then press :guilabel:`Continue`.
 
 You'll now be taken to a screen to choose your keyboard layout. You can either click the :guilabel:`Detect Keyboard Layout` button at the bottom or you can manually select your keyboard layout from the two boxes at the top.
 
