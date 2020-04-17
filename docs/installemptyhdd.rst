@@ -57,7 +57,7 @@ Once you're sure you've got everything correct, click :guilabel:`Install` and th
 
 Feren OS will now be installed. Have a cup of coffee or something as Feren OS will take a little while to install onto your machine.
 
-Once Feren OS has finished installing, it'll take you to a screen saying "All Done". From here you can choose whether you want to immediately reboot into your new Feren OS installation when you click :guilabel:`Finish` or not.
+Once Feren OS has finished installing, it'll take you to a screen saying "All Done". From here you can choose whether you want to immediately reboot into your new Feren OS installation when you click :guilabel:`Done` or not.
 
 .. figure:: images/calamares4.png
     :width: 1024px
