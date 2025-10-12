@@ -15,19 +15,13 @@ Now that you have Feren OS on a USB stick (or DVD) boot the computer from it.
 .. hint::
 	On Macs, keep your finger pressed on the :kbd:`Alt` or :kbd:`Option` key after pressing the power on button.
 
-4. The Feren OS ISO can be booted both in EFI, BIOS or CSM/Legacy Boot mode. In EFI mode it shows a grub menu. In BIOS or CSM/Legacy Boot mode it shows an isolinux menu that can be seen by pressing any key during the initial Feren OS logo.
-
-.. figure:: images/isolinux.png
-    :width: 640px
-    :align: center
-
-    The isolinux menu in BIOS mode
+4. The Feren OS ISO can be booted both in EFI, BIOS or CSM/Legacy Boot mode. When booted it will show a language select menu as depicted in the example shown below:
 
 .. figure:: images/grub-efi.png
     :width: 1024px
     :align: center
 
-    The grub menu in EFI mode
+    Feren OS's language select menu
 
 5. From one of these menus scroll down with the arrow keys to the appropriate boot option and press :kbd:`Enter` to start Feren OS from your USB stick (or DVD).
 
