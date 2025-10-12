@@ -26,7 +26,7 @@ Now that you have Feren OS on a USB stick (or DVD) boot the computer from it.
 5. From this menu scroll down with the arrow keys to the appropriate language and boot option and press :kbd:`Enter` to start Feren OS from your USB stick (or DVD).
 
 .. hint::
-    The arrow keys (four pointing arrow keys) on your keyboard let you change what option you are currently selecting in both menus. Pressing the :kbd:`Enter` key will start the option you selected.
+    The arrow keys (four pointing arrow keys) on your keyboard let you change what option you are currently selecting in the menu. Pressing the :kbd:`Enter` key will start the option you selected.
 
 
 Booting with 'nomodeset' (for NVIDIA users)
