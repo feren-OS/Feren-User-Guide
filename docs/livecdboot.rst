@@ -34,6 +34,6 @@ Booting with 'nomodeset' (for NVIDIA users)
 
 If you have NVIDIA Graphics on your device, you may run into graphical issues when booting into Feren OS normally as the correct drivers for your hardware are not present by default in Feren OS.
 
-However, there is a quick workaround. In both boot menus there is an option called "nomodeset". If you're having problems with booting Feren OS normally on NVIDIA hardware then simply select the :guilabel:`No Mode Set` option instead and Feren OS should boot, albeit with some graphical deficiencies compared to what it looks like once properly installed and with the correct drivers installed onto it.
+However, there is a quick workaround. In both boot menus there is an option called "nomodeset". If you're having problems with booting Feren OS normally on NVIDIA hardware then simply select the :guilabel:`nomodeset` option instead and Feren OS should boot, albeit with some graphical deficiencies compared to what it looks like once properly installed and with the correct drivers installed onto it.
 
-If you need to boot with No Mode Set then please refer to `Booting with nomodeset for NVIDIA Hardware <https://feren-os-user-guide.readthedocs.io/en/latest/nomodesetboot.html>`_ after you have installed Feren OS to boot into your Feren OS installation for the first time without issues.
+If you need to boot with nomodeset then please refer to `Booting with nomodeset for NVIDIA Hardware <https://feren-os-user-guide.readthedocs.io/en/latest/nomodesetboot.html>`_ after you have installed Feren OS to boot into your Feren OS installation for the first time without issues.

@@ -13,6 +13,7 @@ Examples of applications that support Feren OS
 Before I mention some Common Program Replacements, I'd like to start off mentioning the most prominent examples of programs supporting Feren OS:
 
 * Google Chrome (available in Store)
+* Microsoft Edge (available in Store after enabling it in Software Sources)
 * Mozilla Firefox (available in Store)
 * Vivaldi (pre-installed)
 * Opera (available in Web Browser Manager)
@@ -53,11 +54,6 @@ Examples of Common Program Replacements
 Now, for the Common Program Replacements.
 
 * Microsoft Office can be replaced with: LibreOffice, WPS Office, OnlyOffice and more in Store
-* Microsoft Edge can be replaced with Google Chrome, Mozilla Firefox, Vivaldi, Chromium, etc.
-
-.. hint::
-    Microsoft has officially announced that a Linux version of Microsoft Edge is coming soon. Once they have released their Linux version this page will be updated to remove this entry and put it as a supported program above instead.
-
 * Microsoft Outlook and Mail can both be replaced with Geary (pre-installed) and other email clients
 * Photoshop can be replaced by GIMP and Krita
 * PDF Readers can be replaced by Okular (pre-installed) and Evince/Document Viewer (Classic pre-installed)

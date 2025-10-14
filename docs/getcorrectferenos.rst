@@ -1,73 +1,73 @@
-Getting the correct Feren OS for your machine
+Checking Feren OS is compatible with your machine
 ==================
 
-Checking your system architecture to find the correct Feren OS
+Different machines have different "architectures". These architectures decide a lot about what can run on your machine(s) and what cannot, including if Feren OS can run on your machine.
+
+You can identify if Feren OS can run on your machine or not by identifying if your machine is 64-bit or not with the steps below:
+
+I'm using Microsoft Windows 11
 ----------------
 
-Different machines have different 'architectures' in it. These architectures decide a lot about what can run on your machine(s) and what cannot. Therefore, the same applies for what version of Feren OS can run on your machine.
+Check the default themes in :menuselection:`Settings --> Personalisation` - if there is one that has a blue tissues-like background, you're good to go - Windows 11 is always 64-Bit meaning you have 64-Bit hardware and can therefore download Feren OS for your machine.
 
-Different Operating Systems have different ways to tell you what architecture your system is using. As a general rule of thumb most modern hardware is 64-Bit, however it is best to be certain before you potentially waste an ISO download downloading the 64-Bit version of Feren OS only for your machine to be incompatible.
+If you instead see a rainbow tissues-like background, Feren OS is not yet compatible with your machine as it uses the ARM architecture.
 
-Finding out the architecture in Microsoft Windows XP and older
+I'm using Microsoft Windows 10
 ----------------
 
-Unless you are using the 64-Bit Edition of Windows XP, you are running on a 32-Bit Operating System.
+To find out the architecture of your system, go into :menuselection:`Settings --> System --> About`. From there look for a label saying ``System Type``.
 
-Therefore, you should download ``Feren OS Classic 32-Bit`` for your machine.
+If the label says "64-bit Operating System", you're good to go! You can download Feren OS for your machine.
 
-Finding out the architecture in Microsoft Windows Vista - 8.1
+If the label says "32-Bit Operating System", Feren OS is likely not compatible with your machine - you can still attempt to download Feren OS, however it may fail to boot and instead tell you ``This kernel requires an x86-64 CPU, but only detected an i686 CPU``.
+
+.. figure:: images/win10settingsarch.png
+    :width: 560px
+    :align: center
+
+I'm using Microsoft Windows Vista, 7, 8 or 8.1
 ----------------
 
-To find out the architecture of your system, go into :menuselection:`Control Panel --> System & Security --> System`. From there look for a label saying "System type".
+To find out the architecture of your system, go into :menuselection:`Control Panel --> System & Security --> System`. From there look for a label saying ``System type``.
 
-If the label says "64-bit Operating System", you should download either ``Feren OS`` or ``Feren OS Classic 64-Bit`` for your machine.
+If the label says "64-bit Operating System", you're good to go! You can download Feren OS for your machine.
 
-If the label says "32-Bit Operating System", you should download ``Feren OS Classic 32-Bit`` for your machine.
+If the label says "32-Bit Operating System", Feren OS is likely not compatible with your machine - you can still attempt to download Feren OS, however it may fail to boot and instead tell you ``This kernel requires an x86-64 CPU, but only detected an i686 CPU``.
 
 .. figure:: images/win7controlarch.jpg
     :width: 561px
     :align: center
 
-Finding out the architecture in Microsoft Windows 10
+I'm using Microsoft Windows XP and older
 ----------------
 
-To find out the architecture of your system, go into :menuselection:`Settings --> System`. From there look for a label saying "System type".
+If your machine is running "Windows XP Professional x64 Edition", you're good to go! You can download ``Feren OS`` for your machine.
 
-If the label says "64-bit Operating System", you should download either ``Feren OS`` or ``Feren OS Classic 64-Bit`` for your machine.
+If not, you are running on a 32-Bit Operating System and Feren OS is likely not compatible with your machine - you can still attempt to download Feren OS, however it may fail to boot and instead tell you ``This kernel requires an x86-64 CPU, but only detected an i686 CPU``.
 
-If the label says "32-Bit Operating System", you should download ``Feren OS Classic 32-Bit`` for your machine.
-
-.. figure:: images/win10settingsarch.jpg
-    :width: 560px
-    :align: center
-
-Finding out the architecture in Apple macOS
+I'm using an Apple Mac device
 ----------------
 
-A general rule of thumb is that the modern macOS releases are 64-Bit only. Especially if you are running Catalina or newer, you're very likely on 64-Bit hardware meaning that you should download either ``Feren OS`` or ``Feren OS Classic 64-Bit`` for your machine.
+.. warning::
+    If your device is powered by an "M1 Chip" or later, Feren OS is not yet compatible with your machine as it uses the ARM architecture.
 
-To be sure, open a Terminal window and run 'uname -a' in there. An x86_64 string in the output of that command means you're on 64-Bit macOS. Similarly, an i686 string in the output of that command means you're on 32-Bit macOS, meaning that you should download ``Feren OS Classic 32-Bit`` for your machine.
+A general rule of thumb is that the modern macOS releases are 64-Bit only. Especially if you are running Catalina or newer, you're very likely on 64-Bit hardware meaning that you can download ``Feren OS`` for your machine.
+
+To be sure, open a Terminal window, type ``uname -a`` in there and press ENTER.
+
+If you see ``x86_64`` in the text displayed afterwards, you're good to go! You can download Feren OS for your machine.
+
+If you see ``i686`` instead, Feren OS is not compatible with your machine.
 
 Finding out the architecture in Linux
 ----------------
 
-To check the architecture in Linux, open up a Terminal and run 'uname -i' in there.
+To check the architecture in Linux, open up a Terminal and run ``uname -i`` in there.
 
-If the output says 'x86_64' then you should download either ``Feren OS`` or ``Feren OS Classic 64-Bit`` for your machine. However if the output says 'i686' then you should download ``Feren OS Classic 32-Bit`` for your machine.
+If you see ``x86_64`` in the text displayed by that command, you're good to go! You can download Feren OS for your machine.
+
+If you see ``i686`` instead, Feren OS is not compatible with your machine.
 
 .. figure:: images/linuxterminal.png
     :width: 655px
     :align: center
-
-
-What version of Feren OS is right for me?
-----------------
-
-The correct version of Feren OS for you depends on your system and your preferences.
-
-If you have a 32-Bit system, then ``Feren OS Classic`` is the best option for you. However, if you have a 64-Bit system, it all depends on preference between the following:
-
-* ``Feren OS`` is the leaner, more polished version of Feren OS. It's the defacto Feren OS meaning that it is guaranteed to get the most maintenance done to it and that it is guaranteed to be maintained longer than Classic will, with an indefinite maintenance time until a possible desktop environment switch some time in the future.
-* ``Feren OS Classic`` is the original Feren OS experience with the Cinnamon Desktop. It is heavier than Feren OS on resources by default however it has seen more development time overall and is more stagnant with updates than Feren OS due to its maturity.
-
-I'd recommend ``Feren OS`` for newcomers to Feren OS because of its defacto status and its overall higher levels of polish, however the choice is always yours in the end.
