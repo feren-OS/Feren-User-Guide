@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = Linux Mint Installation Guide
+SPHINXPROJ    = Feren OS User Guide
 SOURCEDIR     = .
 BUILDDIR      = _build
 

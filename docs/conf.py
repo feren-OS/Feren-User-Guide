@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Feren OS User Guide'
-copyright = '2019, Feren OS Team'
+copyright = '2019-2025, Feren OS Team'
 author = 'Feren OS Team'
 
 # The version info for the project you're documenting, acts as replacement for

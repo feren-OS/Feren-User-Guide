@@ -1,35 +1,53 @@
 Store
 ==================
 
-What is the Store?
+What is the Feren OS Store?
 ----------------
 
-The Store is the go-to place for getting most if not all the applications you'd ever need in Feren OS.
+The Store is the central place for finding and installing all the applications available for Feren OS, accessible via :menuselection:`Applications Menu --> System --> Store` or from the Store icon in your bottom Panel.
 
-.. figure:: images/feren-store.png
-    :width: 884px
+.. hint::
+    The Panel is the bar at the bottom of your screen, housing the Applications Menu, Task Manager, and System Tray.
+
+.. figure:: images/store.png
+    :width: 802px
     :align: center
 
     Feren OS's Store
 
-The home page, which you get greeted to, is split into the following sections:
+You can find applications by browsing the categories at the bottom of Store's home page, or you can search for their names or (if you know them) package names from the search bar at the top-right of Store at any time.
 
-* Suggested application (a randomly picked application from a pre-defined list of possible applications)
-* Editors' Picks (some randomly items from a pre-defined list of applications for being applications of decent quality)
-* Categories to list many applications by in the Store
-
-You can also search for applications using the search bar at the top right either by their standard name (most of the time) or their package name.
+.. hint::
+    If you're viewing a category and start searching, Store will only search within that category - you can change this by pressing the button found to the right of the search bar (to the left of the Store menu) so that it isn't highlighted anymore.
 
 
-Categories in Store
--------------------------------------
+Adding more sources to the Store
+------------------------------------
 
-The Store has categories at the bottom for listing most applications in the Store by each category.
+You can add or remove additional application sources for Store to use by launching Software Sources from :menuselection:`Applications Menu --> System --> Software Sources`.
 
-These categories are:
+.. figure:: images/sources.png
+    :width: 802px
+    :align: center
+
+    Software Sources
+
+Sources can be turned on and off individually by checking and unchecking their respective checkboxes to the left.
+
+After managing sources, close and relaunch Store for the changes to take effect.
+
+.. warning::
+    Snap Store is known to take several failed attempts to successfully enable - this is a known issue - to enable it, try to turn it on several times, and if it still turns back off restart your computer and try again.
+
+    Once enabled, Snap Store is a separate application that may be called "App Centre", and will require a restart to appear in the Applications Menu.
+
+
+Categories in the Store
+------------------------------------
+
+The Store has categories at the bottom for listing most applications in the Store by each category. These categories are:
 
 * Accessories - utilities for Feren OS
-* Customisation - extra items to make use of when customising Feren OS
 * Games - games for Feren OS
 * Graphics - graphics utilities for Feren OS
 * Internet - web browsing, email, chat and file sharing utilities for Feren OS
@@ -38,29 +56,15 @@ These categories are:
 * Science and Education - science and education software for Feren OS
 * Sound and video - multimedia playing and multimedia creating software for Feren OS
 * System tools - system utilities for Feren OS
-* Editors' Picks - the full list of pre-defined recommended applications
 * Flatpak - list all the Flatpak packages available from the Store
-
-
-Viewing an application in Store
--------------------------------------
-
-Whenever you want to view an application in Store, you can simply click on the application in the listings of applications when either searching for applications or viewing a category.
-
-When you are viewing the application, a screen similar to this one will appear:
-
-.. figure:: images/feren-store-page.png
-    :width: 884px
-    :align: center
-
-* :guilabel:`Install` lets you install the application. This button will change into :guilabel:`Launch` and :guilabel:`Remove` if the application is installed.
-* The top will give you the application's icon, the first line of its description and how its reviews score the application overall
+* All Applications - a sample of all the applications available for Feren OS
 * Below that is the rest of the description
 * In the middle there are screenshots of the application (if any are available for the currently viewed application)
 * In the :guilabel:`Details` section you will find the package name for the application, the version of the application's package and the estimated disk space requirements for installing the application
 * Finally, at the bottom you'll find reviews for the application you are currently viewing
 
-Other Tips
+
+Preferences
 -------------------------------------
 
-To change settings in the Store hit the cog icon on the top-right of the Store window.
+To change settings in the Store hit the cog icon on the top-right of the Store window, then select :guilabel:`Preferences`.

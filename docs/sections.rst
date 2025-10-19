@@ -2,34 +2,28 @@
     For some reason, with sphinx 1.3.6, toctree caption fields aren't picked up sphinx-build make-gettext.
     We're putting the section names here to force them into the POT file.
 
-Downloading Feren OS
+Before installing Feren OS
 
-Preparing for installation
+Reinstalling Feren OS
 
-Installing Feren OS
+Replacing Microsoft Windows
 
-Transitioning from Feren OS Classic to Feren OS
+Replacing Apple macOS
 
-Getting Started
+Replacing Linux
 
-Using Feren OS
+Installing to a new machine
 
-System Settings
+Installing alongside Microsoft Windows
 
-Installing applications
+Installing alongside Apple macOS
 
-Web Browsing
+Installing alongside Linux
 
-Common Program Replacements
+Getting to know Feren OS
 
 Gaming on Feren OS
 
-Updating Feren OS
-
-Maintaining Feren OS
-
-Hardware and Feren OS
-
 Making Feren OS your own
 
-Sending Feedback
+Maintenance
