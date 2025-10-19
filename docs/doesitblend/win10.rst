@@ -8,7 +8,7 @@ If the label says "64-bit Operating System", you're good to go! You can download
 If the label says "32-Bit Operating System", Feren OS is likely not compatible with your machine - you can still attempt to download Feren OS, however it may fail to boot and instead tell you ``This kernel requires an x86-64 CPU, but only detected an i686 CPU``.
 
 .. figure:: ../images/win10settingsarch.png
-    :width: 560px
+    :width: 1428px
     :align: center
 
 

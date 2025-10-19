@@ -8,7 +8,7 @@ If you see ``x86_64`` in the text displayed by that command, you're good to go! 
 If you see ``i686`` instead, Feren OS is likely not compatible with your machine - you can still attempt to download Feren OS, however it may fail to boot and instead tell you ``This kernel requires an x86-64 CPU, but only detected an i686 CPU``.
 
 .. figure:: ../images/linuxterminal.png
-    :width: 655px
+    :width: 738px
     :align: center
 
 
