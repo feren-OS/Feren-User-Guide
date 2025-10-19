@@ -10,7 +10,7 @@ Update Manager is a built-in utility that allows you to manage and install updat
     Feren OS installs available updates daily automatically by default from the default set of repositories included in Feren OS. Packages from extra repositories you've added will not get automatically updated by default.
 
 .. figure:: images/updatemanager.png
-    :width: 500px
+    :width: 792px
     :align: center
 
     Update Manager

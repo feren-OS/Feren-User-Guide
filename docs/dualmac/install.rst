@@ -62,7 +62,7 @@ Select :guilabel:`Replace a partition`, click the free space you made in Disk Ut
     Make sure you select the free space and not an existing partition to replace!
 
 .. figure:: ../images/calamaresdualmac.png
-    :width: 1026px
+    :width: 1024px
     :align: center
 
 

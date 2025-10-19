@@ -6,7 +6,7 @@ If you ever install packages from external places on the internet, or have packa
 System Maintenance can be found at :menuselection:`Applications Menu --> System --> System Maintenance`. When in System Maintenance, click the :guilabel:`Options` tab at the top of the window.
 
 .. figure:: images/sysmaint.png
-    :width: 884px
+    :width: 866px
     :align: center
 
 Once you're done with the task you want to do below, feel free to close System Maintenance.

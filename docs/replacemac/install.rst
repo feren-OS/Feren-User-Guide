@@ -62,7 +62,7 @@ Select :guilabel:`Erase disk` and then click :guilabel:`Next`.
     Before installing Feren OS ensure that you have backed up your data elsewhere as choosing :guilabel:`Erase disk` will destroy ALL the data on the computer's hard drive, and you cannot undo that once it is done.
 
 .. figure:: ../images/calamareserasemac.png
-    :width: 1026px
+    :width: 1024px
     :align: center
 
 
