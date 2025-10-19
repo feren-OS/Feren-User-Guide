@@ -39,7 +39,7 @@ Turn off Secure Boot
 .. hint::
     This section is only required for modern hardware that shipped with Microsoft Windows 8 or newer releases (denoted usually be the manufacturer's logo displaying at the top of the screen instead of the Microsoft Windows logo when booting up). If you are unsure about your hardware using UEFI, open Start and this time search for "msinfo32" and, once listed, open :guilabel:`System Information`. If System Information states that your :guilabel:`BIOS Mode` is UEFI, continue.
 
-    .. figure:: images/msinfo32.png
+    .. figure:: ../../images/msinfo32.png
         :width: 1250px
         :align: center
 

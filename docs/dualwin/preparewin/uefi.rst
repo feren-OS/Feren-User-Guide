@@ -16,7 +16,7 @@ Now you're in Disk Management you'll see a bunch of lettered drives listed on th
 .. hint::
      "Partition" refers to an allocated amount of a disk, such as your computer's hard drive, for data to be stored on, in simple terms. Different Operating Systems have their own partitions dedicated to themselves, such as Microsoft Windows having a partition for the main "C:" drive and another partition for its Microsoft Windows Recovery Environment to be stored on.
 
-.. figure:: ../images/compmgmtmscdiskmgmt.png
+.. figure:: ../../images/compmgmtmscdiskmgmt.png
     :width: 986px
     :align: center
 
@@ -73,7 +73,7 @@ Turn off Secure Boot
 .. hint::
     This section is only required for modern hardware that shipped with Microsoft Windows 8 or newer releases (denoted usually be the manufacturer's logo displaying at the top of the screen instead of the Microsoft Windows logo when booting up). If you are unsure about your hardware using UEFI, open Start and this time search for "msinfo32" and, once listed, open :guilabel:`System Information`. If System Information states that your :guilabel:`BIOS Mode` is UEFI, continue.
 
-    .. figure:: images/msinfo32.png
+    .. figure:: ../../images/msinfo32.png
         :width: 1250px
         :align: center
 

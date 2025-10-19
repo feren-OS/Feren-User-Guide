@@ -25,4 +25,5 @@ Next Steps
 
 This process may take a while, but once you are done you can move on to the next step:
 
-* `Making preparations in Linux <https://feren-os-user-guide.readthedocs.io/en/latest/preplinux.html>`_
+* `Replacing Linux <https://feren-os-user-guide.readthedocs.io/en/latest/replacelinux/liveboot.html>`_
+* `Installing alongside Linux <https://feren-os-user-guide.readthedocs.io/en/latest/duallinux/liveboot.html>`_

@@ -16,7 +16,7 @@ Now you're in Disk Management you'll see a bunch of lettered drives listed on th
 .. hint::
      "Partition" refers to an allocated amount of a disk, such as your computer's hard drive, for data to be stored on, in simple terms. Different Operating Systems have their own partitions dedicated to themselves, such as Microsoft Windows having a partition for the main "C:" drive and another partition for its Microsoft Windows Recovery Environment to be stored on.
 
-.. figure:: ../images/compmgmtmscdiskmgmt.png
+.. figure:: ../../images/compmgmtmscdiskmgmt.png
     :width: 986px
     :align: center
 

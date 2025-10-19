@@ -72,7 +72,7 @@ To do so:
 .. hint::
     If you are offline, the Driver Manager will complain that it cannot connect to the Internet.
 
-    .. figure:: images/mintdrivers-2.png
+    .. figure:: ../images/mintdrivers-2.png
         :width: 724px
         :align: center
 

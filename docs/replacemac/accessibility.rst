@@ -10,7 +10,7 @@ To find them, you will first need to open System Settings. You can do this by go
 
 Once you've opened up System Settings, go to the item called "Accessibility". It will be there with an icon that has a person with their arms held up slightly in a blue circle.
 
-.. figure:: images/accessibility.png
+.. figure:: ../images/accessibility.png
     :width: 1022px
     :align: center
 
@@ -33,7 +33,7 @@ Once you have done this, a dialog will, by default, appear to confirm if you wan
 
 The dialog will look similar to this below image in Feren OS:
 
-.. figure:: images/accessibilitydialog.png
+.. figure:: ../images/accessibilitydialog.png
     :width: 718px
     :align: center
 

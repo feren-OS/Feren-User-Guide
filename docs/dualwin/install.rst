@@ -88,7 +88,7 @@ Feren OS will now be installed. Have a cup of coffee or something as Feren OS wi
 
 Once Feren OS has finished installing, it will take you to a screen saying "All Done". From here you can choose whether you want to immediately restart into your new Feren OS installation when you click :guilabel:`Done` or not.
 
-.. figure:: images/calamares5.png
+.. figure:: ../images/calamares5.png
     :width: 1024px
     :align: center
 

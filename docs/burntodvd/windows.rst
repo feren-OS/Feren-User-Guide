@@ -44,4 +44,5 @@ Next Steps
 
 This process may take a while, but once you are done you can move on to the next step:
 
-* `Making preparations in Windows <https://feren-os-user-guide.readthedocs.io/en/latest/prepwindows.html>`_
+* `Replacing Microsoft Windows <https://feren-os-user-guide.readthedocs.io/en/latest/replacewin/preparewin/index.html>`_
+* `Installing alongside Windows <https://feren-os-user-guide.readthedocs.io/en/latest/dualwin/preparewin/index.html>`_

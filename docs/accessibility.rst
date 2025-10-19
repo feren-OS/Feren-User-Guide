@@ -36,9 +36,3 @@ The dialog will look similar to this below image in Feren OS:
 .. figure:: images/accessibilitydialog.png
     :width: 718px
     :align: center
-
-
-Next Steps
-----------------
-
-* `Installing Feren OS <https://feren-os-user-guide.readthedocs.io/en/latest/duallinux/install.html>`_
