@@ -14,7 +14,7 @@ Replacing Linux
 
 Installing to a new machine
 
-Installing alongside Microsoft Windows
+Installing alongside Windows
 
 Installing alongside Apple macOS
 

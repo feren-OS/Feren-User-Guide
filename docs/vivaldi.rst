@@ -7,7 +7,7 @@ Using Vivaldi is quite simple - in Feren OS Vivaldi is lightly pre-configured to
 
 Feel free to explore Vivaldi as you see fit, and keep in mind it supports extensions from the Chrome Web Store.
 
-.. figure:: ../images/vivaldi.png
+.. figure:: images/vivaldi.png
     :width: 2012px
     :align: center
 

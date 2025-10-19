@@ -42,8 +42,8 @@ In this Desktop, the Status Notch is merged with the bottom Panel, as well as ad
 And on the bottom Panel:
 
 * The Applications Menu (bottom-left bird icon)
-* Workspaces
 * A shortcut to return to your Desktop at any time
+* Workspaces
 * Task Manager (icons for pinned applications and open application windows)
 * The System Tray
 * Clock and Calendar

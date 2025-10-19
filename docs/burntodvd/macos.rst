@@ -1,8 +1,5 @@
-Writing the ISO to a DVD in macOS
+Apple macOS
 ==================
-
-macOS instructions
-----------------
 
 Burning your Feren OS ISO file to a DVD using macOS is very easy as the utilities needed are already integrated into macOS. Here's what you want to do to burn your Feren OS ISO to a DVD Disc:
 

@@ -68,7 +68,7 @@ When you're ready to start, click one of the items below or on the left to begin
 
 .. toctree::
    :maxdepth: 1
-   :caption: Installing alongside Microsoft Windows
+   :caption: Installing alongside Windows
 
    dualwin/preparewin/index
    dualwin/liveboot
@@ -111,6 +111,7 @@ When you're ready to start, click one of the items below or on the left to begin
 .. toctree::
    :maxdepth: 1
    :caption: Gaming on Feren OS
+
    steam
    lutris
    bottles
@@ -119,6 +120,7 @@ When you're ready to start, click one of the items below or on the left to begin
 .. toctree::
    :maxdepth: 1
    :caption: Making Feren OS your own
+
    wallpaper
    lookandfeel
    kns
@@ -128,6 +130,7 @@ When you're ready to start, click one of the items below or on the left to begin
 .. toctree::
    :maxdepth: 1
    :caption: Maintenance
+
    feedback
    bugs
    help

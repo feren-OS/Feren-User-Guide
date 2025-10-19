@@ -1,7 +1,7 @@
-Writing the ISO to a DVD in Windows
+Microsoft Windows
 ==================
 
-Windows 7, 8.X and 10 instructions
+Windows 7, 8.X, 10 and 11 instructions
 ----------------
 
 The modern versions of Windows simplify the process of writing an ISO file to a DVD by having a burner out of the box.
