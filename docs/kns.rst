@@ -16,13 +16,13 @@ Wallpapers can also be obtained from this service. To do so, `open the wallpaper
 
 Images aren't the only type of wallpaper you can use. Above the selection of wallpapers that you've installed/added or are built-in, clicking the :guilabel:`Wallpaper type` dropdown allows you to change the plugin used for the wallpaper, be it to a solid colour, or a slideshow of wallpapers.
 
-That said, you can get even more Wallpaper Plugins, made by the community, by clicking on the :guilabel:`Get New Plugins...` button to the right of the dropdown.
-
 .. figure:: images/wallpaperplugins.png
     :width: 682px
     :align: center
 
     Initial selection of Wallpaper Plugins
+
+That said, you can get even more Wallpaper Plugins, made by the community, by clicking on the :guilabel:`Get New Plugins...` button to the right of the dropdown.
 
 .. hint::
     You may need to close and reopen the Desktop Settings window for new Wallpaper Plugins to appear.

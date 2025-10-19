@@ -37,5 +37,5 @@ However, there is a quick workaround. In both boot menus there is an option call
 Next Steps
 ----------------
 
-* `Accessibility <https://feren-os-user-guide.readthedocs.io/en/latest/replacelinux/accessibility.html>`_
-* `Installing Feren OS <https://feren-os-user-guide.readthedocs.io/en/latest/replacelinux/install.html>`_
+* `Accessibility <https://feren-os-user-guide.readthedocs.io/en/latest/replacewin/accessibility.html>`_
+* `Backup data with Transfer Tool <https://feren-os-user-guide.readthedocs.io/en/latest/replacewin/transferbackup.html>`_

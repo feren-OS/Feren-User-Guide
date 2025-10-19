@@ -19,9 +19,9 @@ When you're ready to start, click one of the items below or on the left to begin
    :maxdepth: 1
    :caption: Reinstalling Feren OS
 
+   reinstall/transferbackup
    reinstall/liveboot
    reinstall/accessibility
-   reinstall/transferbackup
    reinstall/install
    reinstall/initialsetup
    reinstall/transferrestore

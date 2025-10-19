@@ -9,7 +9,7 @@ To add a widget, you must enter Edit Mode by right-clicking the Desktop, or an e
     :width: 1280px
     :align: center
 
-Now you're in Edit Mode, click `Add Widgets...` to open the widget browser.
+Now you're in Edit Mode, click :guilabel:`Add Widgets...` to open the widget browser.
 
 .. figure:: images/plasmoids.png
     :width: 450px
@@ -22,7 +22,7 @@ From the widgets sidebar, you can:
 * Double-click a widget to add it to the Desktop
 
 
-When finished, click the X button on the top bar to exit Edit Mode.
+When finished, click the :guilabel:`X` button on the top bar to exit Edit Mode.
 
 
 Managing widgets on the Desktop

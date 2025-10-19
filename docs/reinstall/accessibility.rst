@@ -41,4 +41,4 @@ The dialog will look similar to this below image in Feren OS:
 Next Steps
 ----------------
 
-* `Backup data with Transfer Tool <https://feren-os-user-guide.readthedocs.io/en/latest/reinstall/transferbackup.html>`_
+* `Reinstalling Feren OS <https://feren-os-user-guide.readthedocs.io/en/latest/reinstall/install.html>`_
