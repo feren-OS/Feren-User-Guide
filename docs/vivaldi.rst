@@ -3,7 +3,7 @@ Vivaldi
 
 Vivaldi is the default browser in Feren OS, although you can change it at any time via the `Web Browser Manager <https://feren-os-user-guide.readthedocs.io/en/latest/browsermanager.html>`_.
 
-Using Vivaldi is quite simple - in Feren OS Vivaldi is lightly pre-configured to add custom Feren OS themes, apply compact mode and, a shortcut to the :guilabel:`Capture Page` function to the toolbar, pre-install the Plasma Integration extension to add deeper integration with Feren OS, and remove some confirmation popups by default that may annoy users.
+Using Vivaldi is quite simple - in Feren OS Vivaldi is lightly pre-configured to add custom Feren OS themes, apply compact mode, add a shortcut to the :guilabel:`Capture Page` function to the toolbar, pre-install the Plasma Integration extension to add deeper integration with Feren OS, and remove some confirmation popups by default that may annoy users.
 
 Feel free to explore Vivaldi as you see fit, and keep in mind it supports extensions from the Chrome Web Store.
 
@@ -12,8 +12,6 @@ Feel free to explore Vivaldi as you see fit, and keep in mind it supports extens
     :align: center
 
     Vivaldi in Feren OS
-
-If you need help with Vivaldi, don't forget to click the Vivaldi icon on the sidebar on the left of the window to open up the official help guide on Vivaldi.
 
 
 Getting help with Vivaldi
