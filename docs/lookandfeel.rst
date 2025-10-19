@@ -10,7 +10,7 @@ You can find Global Theme in :menuselection:`System Settings --> Appearance --> 
 
 When selecting a Global Theme, if it has a Desktop Layout included you will get the option to pick what parts of the Global Theme are applied.
 
-.. figure:: images/globaltheme.png
+.. figure:: images/lookandfeel.png
     :width: 1108px
     :align: center
 

@@ -5,13 +5,13 @@ Widgets are gadgets that you can add to the Desktop as well as to Panels.
 
 To add a widget, you must enter Edit Mode by right-clicking the Desktop, or an empty part of a Panel, and selecting :guilabel:`Enter Edit Mode` in the menu that appears.
 
-.. figure:: ../images/editmode.png
+.. figure:: images/editmode.png
     :width: 1366px
     :align: center
 
 Now you're in Edit Mode, click `Add Widgets...` to open the widget browser.
 
-.. figure:: ../images/plasmoids.png
+.. figure:: images/plasmoids.png
     :width: 1366px
     :align: center
 
@@ -35,7 +35,7 @@ To manage a widget on the Desktop, you have two options:
 
 If successful, resize handles and a grip with options will appear around the widget.
 
-.. figure:: ../images/plasmoidoptions.png
+.. figure:: images/plasmoidoptions.png
     :width: 1366px
     :align: center
 
@@ -58,6 +58,6 @@ To remove a widget in a Panel, you must:
 3. Hover on the widget
 4. In the options that pop out of the widget, select :guilabel:`Remove`
 
-.. figure:: ../images/plasmoidremove.png
+.. figure:: images/plasmoidremove.png
     :width: 289px
     :align: center

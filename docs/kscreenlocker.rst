@@ -3,7 +3,7 @@ Lock Screen
 
 Feren OS comes built-in with a lock screen - it looks like this:
 
-.. figure:: ../images/kscreenlocker.png
+.. figure:: images/kscreenlocker.png
     :width: 1366px
     :align: center
 
