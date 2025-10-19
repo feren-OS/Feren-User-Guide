@@ -92,7 +92,7 @@ When you're ready to start, click one of the items below or on the left to begin
 
    duallinux/liveboot
    duallinux/accessibility
-   duallinux/installdual
+   duallinux/install
    duallinux/initialsetup
 
 .. toctree::
