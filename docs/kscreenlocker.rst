@@ -4,7 +4,7 @@ Lock Screen
 Feren OS comes built-in with a lock screen - it looks like this:
 
 .. figure:: images/kscreenlocker.png
-    :width: 1366px
+    :width: 1280px
     :align: center
 
 However you can tweak the way the lock screen looks. To do this, go into :menuselection:`System Settings --> Workspace Behaviour --> Screen Locking`.

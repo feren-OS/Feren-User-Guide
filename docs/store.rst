@@ -27,7 +27,7 @@ Adding more sources to the Store
 You can add or remove additional application sources for Store to use by launching Software Sources from :menuselection:`Applications Menu --> System --> Software Sources`.
 
 .. figure:: images/sources.png
-    :width: 802px
+    :width: 461px
     :align: center
 
     Software Sources

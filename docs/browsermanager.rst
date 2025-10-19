@@ -9,7 +9,7 @@ Web Browser Manager is a built-in utility that lets you easily install and remov
 You can find it at :menuselection:`Applications Menu --> Internet --> Web Browser Manager`.
 
 .. figure:: images/browsermanager.png
-    :width: 899px
+    :width: 817px
     :align: center
 
     Web Browser Manager

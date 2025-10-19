@@ -17,7 +17,7 @@ You can get Heroic right from the Store. To find it in Store, do the following:
     Can't find Heroic in the applications listed? Just use the search bar at the top right to search for it instead.
 
 .. figure:: images/storeheroic.png
-    :width: 1010px
+    :width: 802px
     :align: center
 
     Heroic in Store

@@ -17,7 +17,7 @@ You can get Lutris right from the Store. To find it in Store, do the following:
     Can't find Lutris in the applications listed? Just use the search bar at the top right to search for it instead.
 
 .. figure:: images/storelutris.png
-    :width: 1010px
+    :width: 802px
     :align: center
 
     Lutris in Store

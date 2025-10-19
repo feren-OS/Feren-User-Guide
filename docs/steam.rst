@@ -17,7 +17,7 @@ You can get Steam right from the Store. To find it in Store, do the following:
     Can't find Steam in the applications listed? Just use the search bar at the top right to search for it instead.
 
 .. figure:: images/storesteam.png
-    :width: 1010px
+    :width: 802px
     :align: center
 
     Steam in Store

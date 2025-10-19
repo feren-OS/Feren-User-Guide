@@ -6,13 +6,13 @@ Widgets are gadgets that you can add to the Desktop as well as to Panels.
 To add a widget, you must enter Edit Mode by right-clicking the Desktop, or an empty part of a Panel, and selecting :guilabel:`Enter Edit Mode` in the menu that appears.
 
 .. figure:: images/editmode.png
-    :width: 1366px
+    :width: 1280px
     :align: center
 
 Now you're in Edit Mode, click `Add Widgets...` to open the widget browser.
 
 .. figure:: images/plasmoids.png
-    :width: 1366px
+    :width: 450px
     :align: center
 
 From the widgets sidebar, you can:
@@ -36,7 +36,7 @@ To manage a widget on the Desktop, you have two options:
 If successful, resize handles and a grip with options will appear around the widget.
 
 .. figure:: images/plasmoidoptions.png
-    :width: 1366px
+    :width: 349px
     :align: center
 
 From here you can:

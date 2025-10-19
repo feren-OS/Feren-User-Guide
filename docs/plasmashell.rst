@@ -7,7 +7,7 @@ The default Feren OS
 When you first log into Feren OS, and if you skip over the layout section of the Tour, you will have this Desktop:
 
 .. figure:: images/defaultdesktopplasma.png
-    :width: 1366px
+    :width: 1280px
     :align: center
 
     The Feren OS Desktop
@@ -30,7 +30,7 @@ Tablet Mode
 If you choose Tablet Mode as your layout for Feren OS, the desktop will look and work slightly differently than it does by default.
 
 .. figure:: images/tabletmodeplasma.png
-    :width: 1366px
+    :width: 1280px
     :align: center
 
     Tablet Mode in action
@@ -56,7 +56,7 @@ Powering off or logging out
 To power your computer off, restart, sleep, switch users, lock or log out of Feren OS, open the Applications Menu and click one of the options (Lock, Log out or Shut Down) from the top-right. If you click the Shut Down button you will be greeted with the option to Sleep, Restart, Shut Down or Log Out.
 
 .. figure:: images/shutdown.png
-    :width: 786px
+    :width: 1280px
     :align: center
 
 .. hint::

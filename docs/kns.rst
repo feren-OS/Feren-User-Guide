@@ -19,7 +19,7 @@ Images aren't the only type of wallpaper you can use. Above the selection of wal
 That said, you can get even more Wallpaper Plugins, made by the community, by clicking on the :guilabel:`Get New Plugins...` button to the right of the dropdown.
 
 .. figure:: images/wallpaperplugins.png
-    :width: 2012px
+    :width: 682px
     :align: center
 
     Initial selection of Wallpaper Plugins

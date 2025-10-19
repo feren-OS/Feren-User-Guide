@@ -30,7 +30,7 @@ Step 2: Select your location
 You should now see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone.
 
 .. figure:: ../images/calamares2.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Once you've set your location click :guilabel:`Next` again.
@@ -42,7 +42,7 @@ Step 3: Select your keyboard layout
 You should now see a keyboard layout selection screen. From here select your computer's keyboard layout and, using the "Type here" textbox at the bottom-left, try each key on your keyboard to make sure they match.
 
 .. figure:: ../images/calamares3.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Once you've set your keyboard layout click :guilabel:`Next` again.
@@ -59,7 +59,7 @@ Now you'll have the option to either erase your disk or partition Feren OS manua
 Select :guilabel:`Erase disk` and then click :guilabel:`Next`.
 
 .. figure:: ../images/calamaresempty.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 
@@ -69,7 +69,7 @@ Step 5: Confirmation
 You'll now be taken to a page that summarises what will be done during installation. This will allow you to look over what you have chosen for your new Feren OS installation before installation begins.
 
 .. figure:: ../images/calamares4.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Once you're sure you've got everything correct, click :guilabel:`Install` and then :guilabel:`Install now` on the final confirmation dialog.
@@ -86,7 +86,7 @@ Feren OS will now be installed. Have a cup of coffee or something as Feren OS wi
 Once Feren OS has finished installing, it will take you to a screen saying "All Done". From here you can choose whether you want to immediately restart into your new Feren OS installation when you click :guilabel:`Done` or not.
 
 .. figure:: ../images/calamares5.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Congrats, you have installed Feren OS! When rebooting eject your USB or DVD and press :kbd:`Enter` on your keyboard when Feren OS prompts you to :guilabel:`remove your installation medium, then press ENTER`.

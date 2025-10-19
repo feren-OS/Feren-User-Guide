@@ -4,7 +4,7 @@ System Settings
 Feren OS's System Settings application allows you to change most settings in your system. It can be found at :menuselection:`Applications Menu --> Settings --> System Settings`.
 
 .. figure:: images/systemsettings.png
-    :width: 1108px
+    :width: 1022px
     :align: center
 
     System Settings

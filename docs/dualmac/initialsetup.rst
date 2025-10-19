@@ -25,7 +25,7 @@ Step 1: Select your location
 You should see a location select screen. From here either click where you are on the world map or use the dropdown menus below the map to select your region and zone.
 
 .. figure:: ../images/setup.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Once you've set your location click :guilabel:`Next` again.
@@ -42,7 +42,7 @@ You should now see a bunch of textboxes asking you for your name, name to log in
 * The password is a requirement to keep your account secure - make sure you use a memorable password and don't share it with anyone you don't want accessing your user account
 
 .. figure:: ../images/setup2.png
-    :width: 1024px
+    :width: 1026px
     :align: center
 
 Once you've filled each textbox as you see fit for your account, click :guilabel:`Set Up`.
@@ -66,14 +66,14 @@ To do so:
 1. Open Driver Manager (:menuselection:`Applications Menu (the bird icon on the bottom-left) --> System --> Driver Manager`).
 
 .. figure:: ../images/mintdrivers.png
-    :width: 724px
+    :width: 642px
     :align: center
 
 .. hint::
     If you are offline, the Driver Manager will complain that it cannot connect to the Internet.
 
     .. figure:: ../images/mintdrivers-2.png
-        :width: 724px
+        :width: 642px
         :align: center
 
     Insert the USB stick or DVD you flashed/burned Feren OS onto earlier, wait for it to be mounted, and click :guilabel:`OK`.
